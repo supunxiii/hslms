@@ -1,0 +1,61 @@
+fname,lname,email,mobile,gender,leave_type,leaves,echelon
+Kumari,Muthukumar,kumari.muthukumar@hotmail.com,0708083759,Female,Casual,11,Nurse
+Sara,Fernando,sara.fernando@hotmail.com,0712945179,Female,Medical,30,Nurse
+Thilini,Jayampathi,thilini_jayampathi@gmail.com,0777153605,Female,Casual,20,Nurse
+Lakshan,Perera,lakshan_perera@outlook.com,0776287139,Male,Medical,30,Ambulance Driver
+Udayangani,Silva,udg_silva@outlook.com,0715890316,Female,Medical,8,Dispenser
+Harshani,Premalatha,kumari_premalatha@hotmail.com,0711526637,Female,Casual,23,Midwife
+Kamal,Wickramasinghe,kamal_wickramasinghe@hotmail.com,0712717246,Male,Medical,3,Dispenser
+Ruwan,Gunasekara,ruwan.gunasekara@yahoo.com,0715407751,Male,Medical,8,Dispenser
+Shyamali,Perera,shy_perera@gmail.com,0776392371,Female,Casual,10,Nurse
+Samanthi,Jayasinghe,samanthi_jay@outlook.com,0715207230,Female,Medical,27,Midwife
+Ayesha,Premarathna,ayesh_perem1966@hotmail.com,0702437244,Female,Medical,22,Dispenser
+Aravinda,Perera,aravind_perera@hotmail.com,0702019832,Male,Medical,4,Ambulance Driver
+Lihini,Abeykoon,lihini_abeykoon@yahoo.com,0773576976,Female,Casual,14,Dispenser
+Siva,Kamalanidi,siva_kamaln@gmail.com,0714927013,Male,Casual,3,Dispenser
+Samantha,Alahakoon,samantha_alahakoon@gmail.com,0715303575,Female,Medical,27,Hospital Clerk
+Shehani,Perera,shehani_perera@yahoo.com,0773036819,Female,Casual,19,Midwife
+Kaveesha,Wijayaratne,kaveesha_wijayaratne@outlook.com,0775905657,Female,Casual,20,Nurse
+Ranjith,Bandara,ranjith_bandara@yahoo.com,0773487436,Male,Casual,4,Ambulance Driver
+Ruwan,Pathirathna,ruwan_pathirathna@hotmail.com,0718694653,Male,Casual,30,Dispenser
+Gihan,Fernando,gihann_fernando@outlook.com,0779127997,Male,Medical,6,Ambulance Driver
+Nirmala,Munasinghe,nirmala_munasinghe@hotmail.com,0706014510,Female,Medical,18,Nurse
+Rajesh,Selvaratnam,raj_selvam@yahoo.com,0773627151,Male,Casual,16,Nurse
+Sandeepani,Perera,sandeepani_perera@gmail.com,0775996923,Female,Medical,5,Midwife
+Manel,Atapattu,manel_atapattu@yahoo.com,0706886851,Female,Medical,23,Midwife
+Kusal,Athukorala,kusal_athu@outlook.com,0715269062,Male,Medical,17,Dispenser
+Anurudda,Bandara,anu.bandara@gmail.com,0772425680,Male,Casual,33,Nurse
+Vimala,Wijesinghe,vim.wijesinghe@outlook.com,0709552594,Female,Medical,33,Dispenser
+Daya,Wijesinghe,daya_wijesinghe@gmail.com,0701293636,Female,Medical,23,Nurse
+Pavithran,Murugesu,pavi_murugesu@outlook.com,0709463505,Male,Medical,11,Dispenser
+Nandani,Illangakoon,nandani_illangakoon@hotmail.com,0776730949,Female,Casual,24,Midwife
+Iresha,Dissanayake,iresha_dissanayake@outlook.com,0777256177,Female,Medical,18,Nurse
+Sandun,Wijesinghe,sandun_wijesinghe@hotmail.com,0771873206,Male,Medical,22,Hospital Clerk
+Vimukthi,Pallekumbura,v_pallekumbura@outlook.com,0702568058,Male,Medical,16,Hospital Clerk
+Priya,Jayakodi,priya_jayakodi@gmail.com,0774067302,Female,Medical,27,Midwife
+Dinakshi,Narampanawa,dinakshi_naram@outlook.com,0773044231,Female,Medical,23,Nurse
+Anushki,Premachandra,anu_premr@hotmail.com,0701814288,Female,Medical,24,Nurse
+Dileepa,Ratnayake,dileepa_ratnayake@gmail.com,0703404464,Male,Medical,27,Ambulance Driver
+Mihindu,Bandara,mihindu_bandara@yahoo.com,0703201875,Male,Casual,22,Ambulance Driver
+Kanishka,Liyanarachchi,kanishka_liyanaarachchi@gmail.com,0702985440,Male,Casual,5,Ambulance Driver
+Sulakshani,Deumini,sula_deumini@hotmail.com,0703235281,Female,Medical,22,Midwife
+Nethmi,Rathnayake,nethmi_rathnayake@outlook.com,0716511698,Female,Casual,28,Dispenser
+Tharindu,Bandara,tharindu_bandara@hotmail.com,0708755722,Male,Medical,7,Dispenser
+Yohan,Fernando,yohan_fernando@hotmail.com,0774642741,Male,Casual,12,Ambulance Driver
+Himashi,Divyanjali,himashii_divyanjali@hotmail.com,0718509144,Female,Casual,27,Midwife
+Hiruna,Gunasekara,hiruna_gunasekara@gmail.com,0712532239,Male,Medical,2,Ambulance Driver
+Udana,Perera,udana_perera89@hotmail.com,0718105492,Male,Casual,22,Hospital Clerk
+Kasun,Pathiraja,kasun_pathiraja@outlook.com,0778853886,Male,Casual,19,Ambulance Driver
+Sudara,Karunathilaka,sudara_karuna@gmail.com,0774273154,Male,Medical,7,Hospital Clerk
+Ravindra,Weerathunga,ravi_weerathunga@hotmail.com,0771431767,Male,Medical,25,Hospital Clerk
+Sunil,Ratnayake,sunil_ratnayake@hotmail.com,0714322360,Male,Medical,10,Hospital Clerk
+Dilum,Paranagama,d_paranagama@outlook.com,0777833630,Male,Casual,25,Ambulance Driver
+Sujeewa,Silva,sujeewa.silva@outlook.com,0778922381,Male,Medical,17,Nurse
+Hansika,Wijenayake,hansika_wijenayake@yahoo.com,0777974463,Female,Casual,20,Hospital Clerk
+Janani,Gunasekara,janani_gunasekara@gmail.com,0772485315,Female,Casual,18,Midwife
+Daham,Warnasekara,daham_warn@gmail.com,0772028180,Male,Casual,11,Dispenser
+Chathushi,Fernando,chathushi_fernando@hotmail.com,0703876754,Female,Medical,16,Nurse
+Chandima,Rathnayake,chandima_rathnayake@yahoo.com,0713607235,Female,Medical,5,Nurse
+Pradeepani,Samarasinghe,pradeepani_sam@outlook.com,0715333294,Female,Casual,34,Midwife
+Thashi,Samarawickrama,thashi_samarawickrama@hotmail.com,0712694016,Female,Casual,33,Dispenser
+Maleesha,Godahewa,maleesha_godahewa@outlook.com,0707236469,Female,Medical,29,Nurse
