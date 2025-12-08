@@ -1,0 +1,11 @@
+#table-container {
+  margin-top: 50px;
+}
+
+.img_parent img {
+  width: 35px;
+  height: 35px; /* Ensure a fixed height matching the width */
+  border-radius: 50%;
+  object-fit: cover; /* Ensure the image maintains its aspect ratio */
+  border: 1px solid #111;
+}

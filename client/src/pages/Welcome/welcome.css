@@ -1,0 +1,70 @@
+/* welcome.css */
+.slider-container {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Full viewport height */
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover; /* Ensures the image covers the entire area without distortion */
+  background-repeat: no-repeat;
+  background-position: center; /* Centers the image */
+  opacity: 0;
+  transition: opacity 2s ease-in-out; /* Transition only the opacity */
+  z-index: 1;
+}
+
+.slide.active {
+  opacity: 1;
+  z-index: 2;
+}
+
+.slide::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4); /* Black overlay with 40% opacity */
+  z-index: 1; /* Ensure the overlay is above the image but below the text */
+}
+
+.slide-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 2; /* Ensure the text is above the overlay */
+  color: #fff;
+  font-size: 3rem;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.slide-text h1 {
+  margin: 0;
+  font-size: 3rem; /* Main text size */
+}
+
+.small-text {
+  margin-top: 10px;
+  font-size: 1.5rem; /* Smaller text size */
+  opacity: 0.8; /* Slightly less opaque */
+}
+
+@media (max-width: 768px) {
+  .slide-text h1 {
+    font-size: 2rem; /* Adjust main text size for smaller screens */
+  }
+
+  .small-text {
+    font-size: 1rem; /* Adjust smaller text size for smaller screens */
+  }
+}

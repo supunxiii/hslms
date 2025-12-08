@@ -1,0 +1,12 @@
+.card-profile-stats img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #111;
+  margin-bottom: 40px;
+}
+
+.user-name {
+  margin-bottom: 30px;
+}

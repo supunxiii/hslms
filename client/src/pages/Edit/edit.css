@@ -1,0 +1,13 @@
+.profile_div img {
+  width: 100px; /* Explicit width */
+  height: 100px; /* Explicit height */
+  border-radius: 50%; /* To make it circular */
+  border: 2px solid #111;
+  object-fit: cover; /* Ensures the aspect ratio is maintained and the image fits inside the container */
+  margin-bottom: 50px;
+}
+
+#title-text {
+  padding-top: 40px;
+  margin-bottom: 25px;
+}

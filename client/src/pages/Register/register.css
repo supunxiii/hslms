@@ -1,0 +1,31 @@
+.staff-add-form-bg {
+  background-image: url("/Users/supunwijesooriya/Documents/MERN-CRUD/client/public/form-bg.jpg");
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile_div img {
+  max-width: 100px;
+  border-radius: 50%;
+  border: 2px solid #111;
+  margin-bottom: 50px;
+}
+
+#title-text {
+  padding-top: 40px;
+  margin-bottom: 25px;
+}
+
+.staff-add-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
