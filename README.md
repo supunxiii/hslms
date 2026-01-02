@@ -97,7 +97,7 @@ HSLMS provides the following features:
 
 ![HSLMS UI 2](https://github.com/supunxiii/supunxiii/blob/7653f59dcf38771e7791a1cc0795c9d6b4cdcd3c/user-interfaces/hslms/hslms-ui-2.png)
 
-### UIs
+### UI
 
 ![HSLMS UI 3](https://github.com/supunxiii/supunxiii/blob/7653f59dcf38771e7791a1cc0795c9d6b4cdcd3c/user-interfaces/hslms/hslms-ui-3.png)
 
