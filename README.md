@@ -18,7 +18,7 @@ HSLMS (Hospital Staff Leave Management System) is a full-stack leave-management 
 ![fast-csv 5.0.1](https://img.shields.io/badge/fast--csv-5.0.1-5C7AEA?style=flat-square)
 ![Moment.js 2.30.1](https://img.shields.io/badge/Moment.js-2.30.1-8A2BE2?style=flat-square)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=whit)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
 
 ## Features
 
